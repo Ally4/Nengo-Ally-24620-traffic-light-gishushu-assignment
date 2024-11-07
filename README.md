@@ -18,3 +18,6 @@ Yellow NW-SE: Caution for NW-SE traffic; prepare to stop.
 Red NW-SE: No NW-SE traffic; all other movements can proceed.
 
 Our main purpose is to make sure that we balance the traffic in the more effective and efficient way so that no one has to spend more time in the traffic.
+
+
+![NENGO-ALLY-24620-traffic-light-assignment](https://github.com/user-attachments/assets/393bf190-c160-493c-8f0e-46c72f51f2bf)
